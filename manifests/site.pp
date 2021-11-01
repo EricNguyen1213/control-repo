@@ -1,4 +1,4 @@
 node puppet.local {
-  include role::masteri
+  include role::master
 }
 
